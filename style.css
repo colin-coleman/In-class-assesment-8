@@ -17,9 +17,11 @@ html{
 
 img{
 opacity: 1.0;
+   margin-left: auto;
+  margin-right: auto;
   height: 300px;
   width:auto;
-   text-align: center;
+  
 }
 
 h1 {

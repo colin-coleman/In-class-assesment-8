@@ -59,8 +59,25 @@ h3 {
   text-align: center;
 }
 
-/*change subtitle font size to larger than the default. */
-/*Change the times to a bold font-weight*/
-/*select the times inside of the lists and change to a different color*/
-/*select the link and change it's color; */
-/*select h1 and h2 elements and change their case to uppercase*/
+
+a:link {
+  color: #fffffe;      /* default state */
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffc0ad;      /* after clicking */
+}
+
+a:hover {
+  color: #9656a1;      /* when mouse hovers */
+  text-decoration: underline;
+}
+
+a:active {
+  color: #271c19;      /* while being clicked */
+}
+
+
+
+

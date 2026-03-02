@@ -10,7 +10,7 @@ ul, ol {
 
 html{
   background-color: #55423d;
-  font-family: "Arial","Verdana", sans-serif;
+  font-family: Verdana, sans-serif;
   font-size: 20px;
   color: #fff3ec;
 }
@@ -25,13 +25,14 @@ opacity: 1.0;
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   text-transform: uppercase;
   text-align: center;
 }
 
 h2 {
   font-size: 1.5rem;
+  text-transform: uppercase;
   text-align: center;
 }
 
@@ -46,15 +47,18 @@ ul li{
 
 #Author{
  text-align: center;
+  text-transform: uppercase;
 }
 
 h3 {
+  text-transform: uppercase;
   text-align: center;
 }
 
 .Turtle {
   text-align: center;
 }
+
 /*change subtitle font size to larger than the default. */
 /*Change the times to a bold font-weight*/
 /*select the times inside of the lists and change to a different color*/

@@ -19,6 +19,7 @@ img{
 opacity: 1.0;
   height: 300px;
   width:auto;
+   text-align: center;
 }
 
 h1 {
@@ -39,6 +40,14 @@ ul li{
 #time{
   font-weight: bold;
   color: #e78fb3;  
+}
+
+#Author{
+ text-align: center;
+}
+
+h3 {
+  text-align: center;
 }
 
 /*change subtitle font size to larger than the default. */

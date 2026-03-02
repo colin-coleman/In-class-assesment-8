@@ -21,12 +21,22 @@ opacity: 1.0;
   width:auto;
 }
 
+h1 {
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 h2 {
   font-size: 1.5rem;
 }
+
+ul li{
+  list-style-type: square;
+  }
+
 /*change subtitle font size to larger than the default. */
 /*Change the times to a bold font-weight*/
-/*select the li inside of ingredients to list-style: square*/
 /*select the times inside of the lists and change to a different color*/
 /*select the link and change it's color; */
 /*select h1 and h2 elements and change their case to uppercase*/

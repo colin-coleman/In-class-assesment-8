@@ -6,6 +6,7 @@
 
 ul, ol {
   margin-left: 25px;
+   padding-left: 40px;
 }
 
 html{
@@ -47,7 +48,6 @@ ul li{
 
 #Author{
  text-align: center;
-  text-transform: uppercase;
 }
 
 h3 {
